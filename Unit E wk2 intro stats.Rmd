@@ -27,6 +27,8 @@ Chaz described how he produced seeds of maize (*Zea mays*) that were fertilised 
 
 ## TASK write a null hypothesis for this experiment - you will test against this
 
+There will be no difference in height between plants produced from plants that seld fertilized and plants produced from plants that were fetilized with pollen from another plant
+
 ## TASK - Read in the data and check it
 
 ```{r, warning=FALSE, message=FALSE}
